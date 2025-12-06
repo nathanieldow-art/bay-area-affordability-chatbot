@@ -1,9 +1,0 @@
-county,year,typical_rent,typical_rent_inflation_adj,percent_change_2015,percent_change_2015_inflation_adj,source
-San Mateo,"2,024","3,285.64","3,285.64",0.207164384,-0.10412262,Zillow
-San Francisco,"2,024","3,294.02","3,294.02",0.0325726,-0.233693068,Zillow
-Contra Costa,"2,024","2,771.60","2,771.60",0.469842116,0.090819379,Zillow
-Santa Clara,"2,024","3,237.95","3,237.95",0.236283081,-0.082512654,Zillow
-Alameda,"2,024","2,722.11","2,722.11",0.270114794,-0.057404999,Zillow
-Marin,"2,024","3,671.06","3,671.06",0.362346259,0.01104308,Zillow
-
-
