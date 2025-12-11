@@ -1,4 +1,4 @@
-﻿Occupation,Annual_mean_wage 
+﻿occupation,annual_mean_wage 
 Aerospace Engineer," 164450 "
 Bioengineers and Biomedical Engineer," 138950 "
 Chemical Engineer," 128670 "
@@ -10,6 +10,7 @@ Industrial Engineer," 140470 "
 Materials Engineer," 138470 "
 Mechanical Engineer," 150900 "
 Software Developer," 187840 "
+
 
 
 
